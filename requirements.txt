@@ -1,0 +1,6 @@
+librerias que se van a usar
+
+requests
+pymongo
+Flask
+python-dotenv
