@@ -26,5 +26,6 @@ def  get_company_data():
     #print(my_data_selection)
     return my_data_selection
 
+
 if __name__ == '__main__':
     app.run()
